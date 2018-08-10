@@ -25,7 +25,7 @@ number_chapters          : false  # Whether to number the chapers in the sidebar
 chapter_titles           : true  # Whether to include the title of the chapter at the top of each chapter
 textbook_only            : true  # If 'true', the home page will be the first chapter of the textbook, and *only* the sidebar is shown
 use_jupyterlab           : false  # If 'true', interact links will use JupyterLab as the interface
-textbook_logo            : "/favicon.png"  # A logo to be displayed at the top of your textbook sidebar
+textbook_logo            : "https://wjshamblin.github.io/data-8/favicon.png"  # A logo to be displayed at the top of your textbook sidebar
 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
